@@ -9,5 +9,25 @@
 
 Im using this script in PowerShell to check my computer's current security settings. This helps me identify security weaknesses before making improvements.
 
+<h1>Step 3: Updating Windows Security </h1>
+
+<img width="1292" height="370" alt="image" src="https://github.com/user-attachments/assets/07d1c24f-4b32-4183-8c95-17a799c66665" />
+
+Im checking for Windows updates to keep my computer protected. Here I learn how security patches fix vulnerabilities and help prevent cyberattacks.
+
+<h1>Step 4: Configuring Windows Defender and Firewall</h1>
+
+<img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/87322b31-ea38-480f-ab46-f7904a868226" />
+
+<img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/ccf3c5bc-982a-4836-acd1-285f06daaf17" />
+
+<img width="922" height="498" alt="image" src="https://github.com/user-attachments/assets/f74d6381-1367-4a9f-b5a3-447a2339feb0" />
+
+I checked Windows Defender, Firewall, and ran a virus scan to make sure my computer is protected. I learn how these procedures help protect a device from unauthorized access.
+
+
+
+
+
 
 
