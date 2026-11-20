@@ -27,6 +27,16 @@ I checked Windows Defender, Firewall, and ran a virus scan to make sure my compu
 
 <h1>Step 5: Configuring User Accounts & Least Privilege</h1>
 
+<img width="1318" height="310" alt="image" src="https://github.com/user-attachments/assets/003c6fa9-6bd5-4afd-ad55-a60510bad760" />
+
+I've created a separate local account for administrative tasks. Here I learned how separating accounts is another precaution taken to improve device security.
+
+<img width="682" height="350" alt="image" src="https://github.com/user-attachments/assets/d728f057-3af7-4480-92af-9d26c312cfb3" />
+
+
+
+
+
 
 
 
