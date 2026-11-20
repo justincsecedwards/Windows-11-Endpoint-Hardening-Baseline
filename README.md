@@ -35,6 +35,11 @@ I've created a separate local account for administrative tasks. Here I learned h
 
 assigning administrator privileges to the local account.
 
+Now since I have a standard and admin account on my local machine I've learned how least privilege is used to prevent certain users from making changes without authorization.
+
+<h1>Step 6: Enabling Windows Device Encryption</h1>
+
+
 
 
 
