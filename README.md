@@ -25,6 +25,8 @@ Im checking for Windows updates to keep my computer protected. Here I learn how 
 
 I checked Windows Defender, Firewall, and ran a virus scan to make sure my computer is protected. I learn how these procedures help protect a device from unauthorized access.
 
+<h1>Step 5: Configuring User Accounts & Least Privilege</h1>
+
 
 
 
