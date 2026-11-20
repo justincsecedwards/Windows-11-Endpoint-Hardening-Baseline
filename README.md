@@ -9,6 +9,10 @@
 
 Im using this script in PowerShell to check my computer's current security settings. This helps me identify security weaknesses before making improvements.
 
+<img width="1195" height="817" alt="image" src="https://github.com/user-attachments/assets/83eebc6d-4910-43e9-b87b-877ed7cee5db" />
+
+This is the report created by my script which is showing that Secure Boot is enabled and my drive is fully encrypted. But some security results are missing, so I need to investigate further to identify potential weaknesses.
+
 <h1>Step 3: Updating Windows Security </h1>
 
 <img width="1292" height="370" alt="image" src="https://github.com/user-attachments/assets/07d1c24f-4b32-4183-8c95-17a799c66665" />
