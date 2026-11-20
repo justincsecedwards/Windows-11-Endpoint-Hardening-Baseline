@@ -33,6 +33,8 @@ I've created a separate local account for administrative tasks. Here I learned h
 
 <img width="682" height="350" alt="image" src="https://github.com/user-attachments/assets/d728f057-3af7-4480-92af-9d26c312cfb3" />
 
+assigning administrator privileges to the local account.
+
 
 
 
