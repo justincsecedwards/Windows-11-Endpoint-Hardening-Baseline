@@ -39,6 +39,24 @@ Now since I have a standard and admin account on my local machine I've learned h
 
 <h1>Step 6: Enabling Windows Device Encryption</h1>
 
+<img width="1328" height="722" alt="image" src="https://github.com/user-attachments/assets/8b661c53-c43c-4560-8476-36812a33c135" />
+
+Here I check whether my computer supports device encryption. With further research I've now learned how encryption protects stored files from unauthorized access.
+
+<img width="435" height="611" alt="image" src="https://github.com/user-attachments/assets/be6da21e-754d-4981-a7c2-959bf4362a62" />
+
+In this step I use PowerShell to check TPM and Secure Boot. I learn how these features help protect encryption keys and the Windows startup process.
+
+<img width="626" height="418" alt="image" src="https://github.com/user-attachments/assets/446dd427-e07c-41d7-8ccf-b3f6647915d7" />
+
+Here I've verified my computer's drive encryption status using PowerShell. 
+
+
+
+
+
+
+
 
 
 
